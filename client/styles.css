@@ -5,19 +5,18 @@ Feel free to use it if you like. */
 body {
   padding: 1% 1%;
   margin: 1% 1%;
-  background-image: ;
+  background-color: #131314;
   background-repeat: no-repeat;
 
 }
 
 .scoreboard {
   text-align: center;
-  position: inline-block;
-  border: solid black;
+  position: absolute;
+  border: solid white;
   width: 10%;
   height: 8%;
-  background-color: ;
-
+  color: white;
 }
 
 svg {
@@ -25,6 +24,10 @@ svg {
 	width: 1000;
 	text-align: center;
 	border: solid gray;
+
+  background-image: url('http://bit.ly/24XU7SC');
+  background-repeat: no-repeat;
+
 
 }
 
@@ -34,6 +37,6 @@ svg {
 
 }
 
-.player {
-	background-color: blue;
+.toggle {
+  background-color: blue;
 }
