@@ -2,4 +2,38 @@
 
 /* Note: an asteroid image is included in this repo.
 Feel free to use it if you like. */
+body {
+  padding: 1% 1%;
+  margin: 1% 1%;
+  background-image: ;
+  background-repeat: no-repeat;
 
+}
+
+.scoreboard {
+  text-align: center;
+  position: inline-block;
+  border: solid black;
+  width: 10%;
+  height: 8%;
+  background-color: ;
+
+}
+
+svg {
+	height: 1000;
+	width: 1000;
+	text-align: center;
+	border: solid gray;
+
+}
+
+.board {
+  text-align: center;
+  color: green;
+
+}
+
+.player {
+	background-color: blue;
+}
